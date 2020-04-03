@@ -10,7 +10,7 @@ Build basic structure of my blog.
 ## 致谢
 
 1. 创建博客的教程源于[博客搭建详细教程](<https://github.com/qiubaiying/qiubaiying.github.io>), 感谢作者的用心分享，大力鼓掌。
-2. 交大女博士阿九的[博客](<https://yxy1988.github.io)也给了我灵感，同样感谢作者。
+2. 交大女博士阿九的[博客](https://yxy1988.github.io)也给了我灵感，同样感谢作者。
 3. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的:smile:; 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## To Do
