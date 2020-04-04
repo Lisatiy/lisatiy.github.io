@@ -6,6 +6,13 @@
 
 Build basic structure of my blog.
 
+## 安装
+
+1. GitHub上新建仓库并clone到本地
+2. 找到合适的博客模板下载到本地
+3. 搭建jekyll环境在本地调试
+4. git push发布
+
 
 ## 致谢
 
