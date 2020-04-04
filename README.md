@@ -20,12 +20,23 @@ Build basic structure of my blog.
 2. 交大女博士阿九的[博客](<https://yxy1988.github.io>)也给了我灵感，同样感谢作者。
 3. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的:smile:; 感谢 Jekyll、Github Pages 和 Bootstrap!
 
-## To Do
+## TODO
 
-- **April-2020**  
+- **Apr.2020**  
   * [ ] 图床和图片压缩工具
-  * [ ] Ubuntu的vim配置markdown
-  * [ ] CLI做 to do list
+  * [ ] 学习图片压缩和处理，部分素材图片替换成和自己相关的
+  * [ ] 整理网站(认真设计icon、中英文介绍、展示信息)
+  * [ ] 学术成果模块列好
+
+- **May.2020**
+  * [ ] Ubuntu的vim配置markdown，CLI做 to do list
+
+- **Jun.2020**
+  * [ ] 添加一些学术导航
+  * [ ] 链接学术账号
+
+- **Oct.2020**
+  * [ ] English Version should be added
 
 ## License
 
