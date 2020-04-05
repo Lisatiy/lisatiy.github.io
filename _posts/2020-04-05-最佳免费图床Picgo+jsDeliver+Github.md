@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Pic+jsDeliver+Github: 我的最佳图床选择
+title:      Pic+jsDeliver+Github  我的最佳图床选择
 subtitle:   再也不为图床选择费心了，搭建免费可靠的图床！
 date:       2020-04-05
 author:     Shufei
@@ -59,8 +59,8 @@ windows用户下载最新的exe文件，Linux用户下载AppImage文件，macOS�
 
 ![](https://cdn.jsdelivr.net/gh/lisatiy/picbed-lisatiy@master/img/2020/20200405101610.jpg)
 
-- 仓库名 \ \ \ "账户名/仓库名"
-- 分支名 \ \ \ 默认是"master"
+- 仓库名 "账户名/仓库名"
+- 分支名 默认是"master"
 - Token就是刚刚复制的那一串字符
 - 存储路径按照我这样填，会在该repository下创建一个"xxx/xxx/"文件夹，注意可以自己定义你的文件夹名字
 - 自定义域名的格式为: cdn.jsdelivr.net/gh/用户名/仓库名@分支名，**分支名后面不要再加路径/xxx/xxx** 。自定义域名作用是在上传图片成功后，PicGo会将"自定义域名+上传的图像名"生成访问链接，放到剪切板上，生成的链接格式为:  https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/xxx/xxx/xxxxxx.png
