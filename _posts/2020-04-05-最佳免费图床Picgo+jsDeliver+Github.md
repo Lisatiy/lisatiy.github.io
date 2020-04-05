@@ -4,7 +4,7 @@ title:      Pic+jsDeliver+Github  我的最佳图床选择
 subtitle:   再也不为图床选择费心了，搭建免费可靠的图床！
 date:       2020-04-05
 author:     Shufei
-header-img: img/post-bg-map.jpg
+header-img: img/post-bg-picbed.jpg
 catalog: true
 tags:
     - 图床
