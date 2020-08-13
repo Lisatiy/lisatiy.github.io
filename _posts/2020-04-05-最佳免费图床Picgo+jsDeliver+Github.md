@@ -82,6 +82,7 @@ windows用户下载最新的exe文件，Linux用户下载AppImage文件，macOS�
 
 - 从剪切板中通过control+shift+p上传的文件会以"$yyyyMMddHHmmss$.png"时间格式命名；若从本地图库中拖拽上传，建议修改名称。
 - **上传的图片能压缩到200KB最好**，这样会提高速度
+- 碰到无法上传的问题时，可以在GitHub的图床repo中提交commit试试
 
 ## 总结
 
